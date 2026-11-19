@@ -2,15 +2,16 @@
 
 ## Description
 
-The arCore project introduces an innovative wearable device designed to revolutionize the way we interact with audio and video data. This device is capable of translating both audio and video inputs into text in "real-time". It's uniquely programmed to run functions based on specific customer needs, making it a versatile tool for a wide range of applications, from accessibility enhancements to efficient data management in professional settings.
+arCore is a prototype wearable audio project. voiceT.py transcribes a wav file on the local machine with Wav2Vec2. vFunctions.py runs a function when it hears a chosen phrase and can show text fullscreen through tkinter. the aim is to add video input and respond in real time. video is planned, not built.
 
 ## Key Features
 
-- **Audio and Video to Text Translation**: Utilizes state-of-the-art technology to convert audio and video inputs into accurate text transcriptions.
-- **Custom Function Triggers**: Programmable to perform specific actions based on the transcribed text, tailored to individual user requirements.
-- **Real-Time Processing**: Designed for on-the-go usage, providing immediate responses and interactions.
+- audio to text. transcription runs locally with Wav2Vec2. video input is planned.
+- custom function triggers. a spoken phrase runs a function and can show text fullscreen.
+- real-time processing. the goal is an immediate response during use.
 
 ## Installation
 
-waiting on hardware, however instructions on updating, aqcuiring and running the software will be here.
+waiting on hardware. instructions for updating, acquiring, and running the software will be here.
 
+gold on black. sting once.
